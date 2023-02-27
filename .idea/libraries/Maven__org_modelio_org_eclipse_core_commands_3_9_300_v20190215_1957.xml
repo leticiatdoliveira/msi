@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.eclipse.core.commands:3.9.300.v20190215-1957">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.core.commands/3.9.300.v20190215-1957/org.eclipse.core.commands-3.9.300.v20190215-1957.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.core.commands/3.9.300.v20190215-1957/org.eclipse.core.commands-3.9.300.v20190215-1957-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.core.commands/3.9.300.v20190215-1957/org.eclipse.core.commands-3.9.300.v20190215-1957-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

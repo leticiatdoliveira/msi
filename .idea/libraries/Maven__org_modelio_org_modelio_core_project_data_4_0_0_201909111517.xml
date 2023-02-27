@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.modelio.core.project.data:4.0.0.201909111517">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.core.project.data/4.0.0.201909111517/org.modelio.core.project.data-4.0.0.201909111517.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.core.project.data/4.0.0.201909111517/org.modelio.core.project.data-4.0.0.201909111517-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.core.project.data/4.0.0.201909111517/org.modelio.core.project.data-4.0.0.201909111517-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

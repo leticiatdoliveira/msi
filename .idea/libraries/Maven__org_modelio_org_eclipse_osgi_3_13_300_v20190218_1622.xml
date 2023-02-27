@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.eclipse.osgi:3.13.300.v20190218-1622">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.osgi/3.13.300.v20190218-1622/org.eclipse.osgi-3.13.300.v20190218-1622.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.osgi/3.13.300.v20190218-1622/org.eclipse.osgi-3.13.300.v20190218-1622-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.osgi/3.13.300.v20190218-1622/org.eclipse.osgi-3.13.300.v20190218-1622-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

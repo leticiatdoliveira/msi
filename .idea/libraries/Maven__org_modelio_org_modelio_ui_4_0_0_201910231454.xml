@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.modelio.ui:4.0.0.201910231454">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.ui/4.0.0.201910231454/org.modelio.ui-4.0.0.201910231454.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.ui/4.0.0.201910231454/org.modelio.ui-4.0.0.201910231454-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.ui/4.0.0.201910231454/org.modelio.ui-4.0.0.201910231454-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

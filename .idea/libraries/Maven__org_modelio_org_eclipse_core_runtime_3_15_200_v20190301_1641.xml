@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.eclipse.core.runtime:3.15.200.v20190301-1641">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.core.runtime/3.15.200.v20190301-1641/org.eclipse.core.runtime-3.15.200.v20190301-1641.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.core.runtime/3.15.200.v20190301-1641/org.eclipse.core.runtime-3.15.200.v20190301-1641-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.core.runtime/3.15.200.v20190301-1641/org.eclipse.core.runtime-3.15.200.v20190301-1641-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

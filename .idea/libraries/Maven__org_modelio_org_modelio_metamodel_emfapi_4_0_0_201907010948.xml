@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.modelio.metamodel.emfapi:4.0.0.201907010948">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.metamodel.emfapi/4.0.0.201907010948/org.modelio.metamodel.emfapi-4.0.0.201907010948.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.metamodel.emfapi/4.0.0.201907010948/org.modelio.metamodel.emfapi-4.0.0.201907010948-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.metamodel.emfapi/4.0.0.201907010948/org.modelio.metamodel.emfapi-4.0.0.201907010948-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

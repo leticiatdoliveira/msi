@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.eclipse.ui.forms:3.7.500.v20190216-1545">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.ui.forms/3.7.500.v20190216-1545/org.eclipse.ui.forms-3.7.500.v20190216-1545.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.ui.forms/3.7.500.v20190216-1545/org.eclipse.ui.forms-3.7.500.v20190216-1545-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.eclipse.ui.forms/3.7.500.v20190216-1545/org.eclipse.ui.forms-3.7.500.v20190216-1545-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

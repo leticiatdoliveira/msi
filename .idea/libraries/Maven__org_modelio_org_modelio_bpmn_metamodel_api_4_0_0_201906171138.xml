@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.modelio:org.modelio.bpmn.metamodel.api:4.0.0.201906171138">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.bpmn.metamodel.api/4.0.0.201906171138/org.modelio.bpmn.metamodel.api-4.0.0.201906171138.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.bpmn.metamodel.api/4.0.0.201906171138/org.modelio.bpmn.metamodel.api-4.0.0.201906171138-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/modelio/org.modelio.bpmn.metamodel.api/4.0.0.201906171138/org.modelio.bpmn.metamodel.api-4.0.0.201906171138-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
