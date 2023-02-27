@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <move file="\\MAC\Home\Documents\ENIB\S7\MSI\ModuleModelio\msi/target/MSI_0.0.1.zip" tofile="\\MAC\Home\Documents\ENIB\S7\MSI\ModuleModelio\msi/target/MSI_0.0.1.jmdac"/>
+</target>
+</project>

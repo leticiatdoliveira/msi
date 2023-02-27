@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Module id="MSI" class="org.enib.msi.impl.MSIModule" binaryversion="5.1.00" version="0.0.1" schema-level="2" uid="bb4afe7d-0bc3-433e-b1b7-993d625a24ff">
+    <ClassPath>
+        <PathEntry path="lib/msi-0.0.1.jar"/>
+        <PathEntry path="lib/commons-lang3-3.1.jar"/>
+    </ClassPath>
+    <Profiles>
+        <Profile uid="cb69987d-22a0-456b-af1e-9de6ded9bb49" id="MSIProfile">
+            <Stereotype name="MSIClass" metaclass="Class" is-hidden="false" label="VirtualHuman" uid="51214cd7-1120-42cd-8014-45baff35f430">
+                <Icon path="res/icons/Stereotype1_16.png"/>
+                <Image path="res/icons/Stereotype1_48.png"/>
+            </Stereotype>
+            <Stereotype name="MSIAction" metaclass="OpaqueAction" is-hidden="false" label="CommunicationAction" uid="1d8e7c50-a70e-44a2-8e11-27d49581f5a6">
+                <Icon path="res/icons/Stereotype1_16.png"/>
+                <Image path="res/icons/Stereotype1_48.png"/>
+                <TagTypes>
+                    <TagType name="Type" uid="c82436a6-e8fc-48dd-b4d7-31b60a169730" label="Type" parameter-card="1" is-hidden="false" is-signed="false"/>
+                </TagTypes>
+            </Stereotype>
+        </Profile>
+    </Profiles>
+    <Gui>
+        <Commands>
+            <Command id="HelloWorld" label="HelloWorld" tooltip="HelloWorld" image="res/icons/HelloWorldCommand_16.png" group="" modify-model="true" group-image="">
+                <Scope metaclass="Package"/>
+                <Handler class="org.enib.msi.command.HelloWorld"/>
+            </Command>
+        </Commands>
+        <Tools/>
+        <ContextualMenu>
+            <CommandRef refid="HelloWorld"/>
+        </ContextualMenu>
+        <Diagrams/>
+        <Views/>
+    </Gui>
+    <Dependencies/>
+</Module>
